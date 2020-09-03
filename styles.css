@@ -31,7 +31,8 @@ mark{
 
 .second{
     color: floralwhite;
-    margin: 300px;
+    margin-top: 300px;
+    margin-bottom: 300px;
 }
 .second-head{
     color: #fed500;
